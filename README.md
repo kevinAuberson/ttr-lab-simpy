@@ -9,6 +9,8 @@ We are going to evaluate the question: if the arrival rate $\lambda$ doubles, ho
 
 We will evaluate this question for different cases, presented in the sections below.
 
+> [!NOTE]
+> Write your report using the template `Report.md`. You can write it in English or French
 
 
 Case 1a: Base scenario M/M/1
