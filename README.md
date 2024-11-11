@@ -100,7 +100,8 @@ In the real world, mean values won't tell us if there is a problem. We have to l
 
 This is why we will look at the 99th percentile of the response time from now on.
 
-We will use 300 ms as target value of the 99th percentile of the response time. That is, only 1% of users will see a worse response time.
+If you evaluated the 99th percentile of the previous simulation 2b, you would have seen that it is higher than 400 ms, which may not be acceptable for a Web service.
+We will therefore use 300 ms as target value of the 99th percentile of the response time. That is, only 1% of users will see a worse response time.
 
 Perform the simulation:
 
