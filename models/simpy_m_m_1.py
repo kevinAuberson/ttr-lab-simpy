@@ -11,8 +11,8 @@ import random
 import numpy as np
 
 # Parameters
-arrival_rate = 90.0
-service_rate = 100.0
+arrival_rate = 180.0
+service_rate = 190.0
 num_requests = 1_000_000
 
 # Results

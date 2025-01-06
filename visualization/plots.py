@@ -79,3 +79,5 @@ def heatmap_plot(data, max_points=MAX_POINTS, x_points=20, y_points=40,
     plt.ylabel(ylabel)
     plt.savefig(filename, bbox_inches="tight")
     plt.close()
+
+
